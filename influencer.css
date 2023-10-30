@@ -68,10 +68,12 @@ nav ul li a{
     font-weight: 600;
 }
 .banner{
+	max-width: 1440px;
 	display: flex;
 	align-items: center;
 	gap: 50px;
-	margin-top: 20px;
+	margin: 30px auto;
+	justify-content: center;
 }
 .banner-content{
 	width: 50%;
@@ -92,7 +94,7 @@ nav ul li a{
 }
 .banner-img img{
 	width: 100%;
-	height: auto;
+	height: 100%;
 }
 
 
