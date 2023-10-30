@@ -194,7 +194,27 @@ main{
 }
 
 
-
+/* Footer Section */
+footer{
+	background: #0A0826;
+	text-align: center;
+	padding: 50px 0px;
+}
+.footer-title{
+	color: #FFF;
+    font-size: 1.5rem;
+    font-weight: 700;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+.footer-description{
+	color: #D9DBE1;
+    font-size: .85rem;
+    font-weight: 700;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	line-height: 1rem;
+}
 
 
 
